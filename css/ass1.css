@@ -1,0 +1,35 @@
+ul {
+  display: inline;
+  font-family: sans-serif;
+  margin: auto;
+  width: auto;
+  font-size: 18px;
+}
+
+li{
+  list-style: none;
+  display: inline;
+}
+
+.city{
+  font-size: 30px;
+  text-align: center;
+  height: 60px;
+  margin-top:30px;
+}
+body{
+  width: auto;
+  text-align: center;
+}
+.grid_12,img{
+  height: 500px;
+  width:960px;
+}
+.grid_4{
+  margin-top: 20px;
+    padding-top: 10px;
+}
+.grid_8{
+  margin_top: 20px;
+  padding-top: 10px;
+}
